@@ -1,0 +1,9 @@
+﻿  test.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\test.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 464 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lcg.vcxproj -> C:\Users\Daria\source\repos\lcg\Release\lcg.exe

@@ -1,0 +1,170 @@
+﻿  bernoulli.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+  binomial.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\binomial.cpp(38): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  exponential.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\exponential.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  geometric.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+  hypergeometric.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\hypergeometric.cpp(56): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  lcg.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(95): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(100): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(102): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(144): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(147): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(148): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(201): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(201): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(214): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(217): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(223): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(263): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(295): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(295): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(315): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(365): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(421): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(424): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(424): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(451): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(516): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(522): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(524): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(526): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(532): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(537): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(542): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(545): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(547): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(567): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(567): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(572): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(590): warning C4244: '=': conversion from 'double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(605): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(608): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(610): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(613): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(624): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(638): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(654): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(661): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(671): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(678): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(684): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(689): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(692): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\daria\source\repos\lcg\lcg\lcg.cpp(694): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  normal.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\normal.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  poisson.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+  special_lcg.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+c:\users\daria\source\repos\lcg\lcg\special_lcg.cpp(12): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\daria\source\repos\lcg\lcg\special_lcg.cpp(20): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  test.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+  uniform.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\daria\source\repos\lcg\lcg\lcg.h(39): error C2397: conversion from 'double' to 'const __int64' requires a narrowing conversion
+  Generating Code...
